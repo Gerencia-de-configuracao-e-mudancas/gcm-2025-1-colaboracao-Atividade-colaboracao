@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y77OJWWk)
 # Gerência de Configuração e Mudanças - Atividade de Colaboração (2025/1)
 
 Este repositório faz parte da disciplina **Gerência de Configuração e Mudanças** (GCM), ofertada no semestre 2025/1. Aqui está registrada a atividade de colaboração proposta para a turma, focando na aplicação prática dos conceitos de controle de versão, colaboração em equipes e gestão de mudanças em projetos de software.
